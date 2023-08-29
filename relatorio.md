@@ -15,10 +15,12 @@ O objetivo deste projeto é criar um jogo de adivinhação em que dois jogadores
 
 ### **Multiplexadores 2 para 1**
 ![Multiplexador 2 para 1](/img/mux.gif "Multiplexador 2 para 1")
+
 Os multiplexadores são utilizados para alternar entre os jogadores, selecionar o palpite correto a ser exibido no display e escolher os sinais de resultado apropriados.
 
 ### **Circuito Comparador de Magnitude**
 ![Comparador](/img/comparator.gif "Comparador")
+
 Um circuito comparador de magnitude é empregado para comparar os palpites dos jogadores com o número secreto. Ele determina se o palpite é maior, menor ou igual ao número secreto, gerando os sinais de resultado correspondentes.
 
 ### **Decodificadores para Displays de 7 Segmentos**
